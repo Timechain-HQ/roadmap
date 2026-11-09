@@ -11,4 +11,3 @@ It is a plan for hardening and eventually publishing the testnet. It is **not** 
 | Full roadmap | [ROADMAP.md](ROADMAP.md) |
 | Node | [Timechain-HQ/Timecoin](https://github.com/Timechain-HQ/Timecoin) |
 | Org profile | [Timechain-HQ](https://github.com/Timechain-HQ) |
-| Site | [timecoin.cash](https://www.timecoin.cash) |
