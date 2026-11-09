@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="logo.png" alt="Timechain HQ" width="120" height="120" />
-</p>
-
 # Timecoin roadmap
 
 Public path for the **Timecoin** testnet under [Timechain HQ](https://github.com/Timechain-HQ).
